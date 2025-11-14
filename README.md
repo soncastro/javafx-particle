@@ -1,6 +1,9 @@
 # JavaFX Particle
 Experimento de implementação de explosão fazendo uso de partículas com JavaFX.
 
+## Como funciona
+Faça cliques com o mouse na janela e a cada clique uma explosão acontece.
+
 ## Pré-requisito
 - JDK 25 ou superior
 
