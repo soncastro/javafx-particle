@@ -10,7 +10,7 @@ Faça cliques com o mouse na janela e a cada clique uma explosão acontece.
 ## Executar o projeto
 Abra o terminal na pasta raiz do projeto e use o comando apropriado para o seu Sistema Operacional:
 
-| Sistema Operacional | Comando |
-| :--- | :--- |
-| **Linux/macOS** | `./mvnw javafx:run` |
-| **Windows** | `mvnw.cmd javafx:run` |
+| Sistema Operacional | Comando                     |
+| :--- |:----------------------------|
+| **Linux/macOS** | `./mvnw clean javafx:run`   |
+| **Windows** | `mvnw.cmd clean javafx:run` |
