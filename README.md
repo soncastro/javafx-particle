@@ -1,5 +1,8 @@
 # JavaFX Particle
-Experimento de implementação de explosão fazendo usando de partículas com JavaFX.
+Experimento de implementação de explosão fazendo uso de partículas com JavaFX.
+
+## Pré-requisito
+- JDK 25 ou superior
 
 ## Executar o projeto
 Abra o terminal na pasta raiz do projeto e use o comando apropriado para o seu Sistema Operacional:
